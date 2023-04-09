@@ -9,7 +9,7 @@ class PosNegDemo
 		}
 		else
 		{
-			System.out.println("-9 is negative number");
+			System.out.println("number is negative number");
 		}
 	}
 }
